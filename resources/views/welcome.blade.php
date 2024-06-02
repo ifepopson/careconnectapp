@@ -14,9 +14,9 @@
 
     </head>
 
-    <div  id="app">
+    <body  id="app">
         kkkk
         <router-view></router-view> 
 
-    </div>
+    </body>
 </html>
